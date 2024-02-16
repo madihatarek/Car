@@ -1,4 +1,5 @@
-#Car Project
+<h2>Car Project</h2>
+
 This website helps us choose the suitable car for renting by displaying numerous features of the car such as its speed and pictures along with a description of its category.
 It also presents the daily rental price and allows us to select the one that suits us best. Furthermore it shows all the affiliated agents of the company to enhance
 customer confidence in it.
